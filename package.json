@@ -1,0 +1,16 @@
+{
+  "name": "svelte-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.5",
+    "@snowpack/plugin-svelte": "^3.4.1",
+    "snowpack": "^2.18.5",
+    "svelte": "^3.31.2"
+  }
+}
